@@ -10,7 +10,7 @@
 
 Este projeto consiste em uma interface web moderna e intuitiva para um glossário bilíngue focado em terminologia militar (Português-Brasil / Inglês). Os dados do glossário foram processados e estruturados para serem consumidos dinamicamente na página.
 
-**🌐 Acesse o projeto online:** [https://glossario-lexico-bilingue.marimuller.com/](https://glossario-lexico-bilingue.marimuller.com/)
+**🌐 Acesse o projeto online:** <a href="https://glossario-lexico-bilingue.marimuller.com/" target="_blank">https://glossario-lexico-bilingue.marimuller.com/</a>
 
 ### Funcionalidades
 
@@ -41,7 +41,7 @@ Por ser uma aplicação baseada inteiramente em HTML, CSS e JavaScript estático
 
 This project consists of a modern and intuitive web interface for a bilingual glossary focused on military terminology (Brazilian Portuguese / English). The glossary data has been processed and structured to be dynamically consumed on the page.
 
-**🌐 Access the project online:** [https://glossario-lexico-bilingue.marimuller.com/](https://glossario-lexico-bilingue.marimuller.com/)
+**🌐 Access the project online:** <a href="https://glossario-lexico-bilingue.marimuller.com/" target="_blank">https://glossario-lexico-bilingue.marimuller.com/</a>
 
 ### Features
 
@@ -63,5 +63,3 @@ Since it is an application based entirely on HTML, CSS, and static JavaScript (V
 1. Navigate to the `glossario-lexico-bilingue` folder.
 2. Double-click the `index.html` file to open it directly in any modern browser (Chrome, Edge, Firefox, Safari).
 3. Use the search bar to explore and locate military terminologies!
-
-
