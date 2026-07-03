@@ -64,5 +64,4 @@ Since it is an application based entirely on HTML, CSS, and static JavaScript (V
 2. Double-click the `index.html` file to open it directly in any modern browser (Chrome, Edge, Firefox, Safari).
 3. Use the search bar to explore and locate military terminologies!
 
----
-*Desenvolvido com [Antigravity + Stitch](https://github.com/google-labs-code/stitch-skills)*
+
