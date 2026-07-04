@@ -24,6 +24,7 @@ Este projeto consiste em uma interface web moderna e intuitiva para um glossári
 - `styles.css`: As regras de estilização, design e layout da aplicação.
 - `script.js`: O motor da aplicação, responsável pela lógica de busca, filtragem e a renderização dinâmica dos termos no HTML.
 - `data.js`: Arquivos contendo os dados (termos, traduções e variações) extraídos do léxico original (planilha), estruturados para o consumo fácil do front-end.
+- `images/`: Pasta contendo as imagens de apoio (Patentes e Organizações Militares) acessíveis através de modais na interface.
 
 ### Como Executar
 
@@ -55,6 +56,7 @@ This project consists of a modern and intuitive web interface for a bilingual gl
 - `styles.css`: The styling rules, design, and layout of the application.
 - `script.js`: The engine of the application, responsible for search logic, filtering, and dynamic rendering of terms in HTML.
 - `data.js`: Files containing the data (terms, translations, and variations) extracted from the original lexicon (spreadsheet), structured for easy front-end consumption.
+- `images/`: Folder containing support images (Ranks and Military Organizations) accessible through modals in the interface.
 
 ### How to Run
 
